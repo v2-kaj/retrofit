@@ -98,7 +98,7 @@ public class TodoService implements TodoServiceInterface {
                 e.printStackTrace();
             }
         }else{
-            System.out.println("Todo you are attempting to delete is not found");
+            System.out.println("Todo you are attempting to update is not found");
         }
     }
 
